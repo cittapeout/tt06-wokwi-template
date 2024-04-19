@@ -1,6 +1,7 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg)
 
 # Tiny Tapeout Verilog Project Template
+Workwi project using D fliflop ring to display CIt on the 7 segment display.
 
 - [Read the documentation for project](docs/info.md)
 
